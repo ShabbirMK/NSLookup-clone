@@ -8,11 +8,11 @@ Our version of NSlookup currently supports for the following options:
 -> recurse (recurse)
 
 The types of query that our version supports include:
--> A
--> NS
--> CNAME
--> SOA
--> PTR
+	-> A
+	-> NS
+	-> CNAME
+	-> SOA
+	-> PTR
 -> HINFO
 -> MINFO
 -> MX
