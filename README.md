@@ -1,47 +1,22 @@
 # NSLookup-clone
 
 Our version of NSlookup currently supports for the following options:
--> port (port)
--> query type (rtype)
--> timeout (timeout)
--> dns (dns_ip)
--> recurse (recurse)
-
-The types of query that our version supports include:
-	-> A
-	-> NS
-	-> CNAME
-	-> SOA
-	-> PTR
--> HINFO
--> MINFO
--> MX
--> TXT
--> WKS
--> RP
--> AFSDB
--> X25
--> ISDN
--> RT
--> NSAP
--> NSAP-PTR
--> SIG
--> KEY
--> PX
--> GPOS
--> AAAA
--> ANY
+1. port (port)
+2. query type (rtype)
+3. timeout (timeout)
+4. dns (dns_ip)
+5. recurse (recurse)
 
 Of the above mentioned ones, the more commonly used options are:
--> A
--> NS
--> CNAME
--> SOA
--> PTR
--> MX
--> TXT
--> AAAA
--> ANY
+1. A
+2. NS
+3. CNAME
+4. SOA
+5. PTR
+6. MX
+7. TXT
+8. AAAA
+9. ANY
 
 Important Note:
 	
